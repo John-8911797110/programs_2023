@@ -38,4 +38,4 @@ describe programs simply
   2. pre train model in train/test dataset with Focal Loss、RMSprop...
   3. finetune model in transfer dataset.
 
-  <img src="asset\vol_testacc.png" alt="image-20230307144840116" style="zoom:67%;" />
+  <img src="asset\vol_testacc.png" alt="image-20230307144840116" style="zoom:30%;" />
