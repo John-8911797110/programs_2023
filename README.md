@@ -17,7 +17,7 @@ describe programs simply
   3. scenario analysis for strategies.
   4. visualization
 
-  **visualization example**
+  **[visualization example](asset/all.html)**
 
   <img src="asset\multi_strategy_result.png" style="zoom:100%;" /><img src="E:\programs\vnpy-master\programs_2023\asset\multi_strategy_metrics.png" alt="image-20230307142906788"  />
 
