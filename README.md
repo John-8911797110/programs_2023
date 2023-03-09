@@ -47,4 +47,5 @@ describe programs simply
   2. allow long and short N in 510300 with fee, covering all positions at 14:50.
   3. daily return result shows below:
 
-  ![image-20230309111411371](asset\backtest_result_example.png)
+ <img src="asset\backtest_result_example.png" alt="image-20230309111411371" style="zoom:100%;" />
+
