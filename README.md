@@ -39,3 +39,11 @@ describe programs simply
   3. finetune model in transfer dataset.
 
   <img src="asset\vol_testacc.png" alt="image-20230307144840116" style="zoom:67%;" />
+
+- #### Simple backtest
+
+  1.  train model in 3-6, 2022, test on 8,1,2022-9,1,2023 (23 trade day).
+  2. allow long and short N in 510300 with fee, covering all positions at 14:50.
+  3. daily return result shows below:
+
+  ![image-20230309111411371](asset\backtest_result_example.png)
