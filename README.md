@@ -55,4 +55,4 @@ describe programs simply
 
 
  <img src="asset\backtest_result_example.png" alt="image-20230307144840116"/>
- <img src="asset\backtest_result_all.png" alt="image-20230309111411371" />
+ <img src="asset\backtest_all.png" alt="image-20230309111411371" />
