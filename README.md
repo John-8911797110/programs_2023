@@ -19,8 +19,8 @@ describe programs simply
 
   **[visualization example](asset/all.html)**
 
-  <img src="asset\multi_strategy_result.png" style="zoom:100%;" />
-  <img src="asset\multi_strategy_metrics.png" alt="image-20230307142906788"  />
+  <img src="asset\cta_strategy_example.png" style="zoom:100%;" />
+  <img src="asset\cta_example_metrics.png" alt="image-20230307142906788"  />
 
 
 
