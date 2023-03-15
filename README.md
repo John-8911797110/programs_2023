@@ -44,8 +44,5 @@ describe programs simply
 
   1.  train model in 3-6, 2022, test on 7,1,2022-9,1,2023 (44 trade day).
   2.  allow long and short N in 510300 with fee, covering all positions at 14:50.
-  3.  daily return in 8.1-9.1 and 7.1-9.1 result shows below :
-
-
- <img src="asset\backtest_result_example.png" alt="image-20230307144840116"/>
- <img src="asset\backtest_all.png" alt="image-20230309111411371" />
+  3.  daily return in 7.1-9.1 result shows below :
+       <img src="asset\backtest_example.png" alt="image-20230309111411371" />
